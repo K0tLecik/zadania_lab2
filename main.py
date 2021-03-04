@@ -65,7 +65,7 @@ print("\n")
 
 print("zadanie 7:\n")
 liczby = [1, 3.5, 17, 4.23, 21.37, 2.115, 9]
-for x in range(len(liczby) - 1):
+for x in range(len(liczby)):
     print(pow(liczby[x], 2))
 print("\n")
 
